@@ -1,0 +1,54 @@
+body{
+    font-size: 20px;
+    margin-left: 10em;
+    margin-right: 10em;
+    margin-bottom: 10em;
+    font-family: 'IBM Plex Sans', sans-serif;
+    background-color: black;
+    color: white;
+}
+
+h1{
+    color: rgb(144, 14, 177);
+}
+
+h3{
+    color: rgb(13, 30, 184);
+}
+
+#bio{
+    margin-top: 10em;
+}
+
+#header{
+    margin-top: 5em;
+}
+#schedule{
+    margin-top: 15em;
+}
+
+#sites{
+    margin-top: 5em;
+}
+
+ol{
+    font-style: italic;
+}
+
+.book{
+    color: red;
+}
+
+.movie{
+    color:blueviolet;
+}
+
+img{
+    float: right;
+    margin-left: 3em; 
+    margin-bottom: 5em;
+}
+
+.row{
+    margin-top: 5em;
+}
